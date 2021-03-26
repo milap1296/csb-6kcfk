@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://milap1296.github.io/csb-6kcfk/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://milap1296.github.io/csb-6kcfk/static/js/main.4ec75c88.chunk.js",
+    "main.js.map": "https://milap1296.github.io/csb-6kcfk/static/js/main.4ec75c88.chunk.js.map",
+    "runtime-main.js": "https://milap1296.github.io/csb-6kcfk/static/js/runtime-main.8983339a.js",
+    "runtime-main.js.map": "https://milap1296.github.io/csb-6kcfk/static/js/runtime-main.8983339a.js.map",
+    "static/js/2.d152d37d.chunk.js": "https://milap1296.github.io/csb-6kcfk/static/js/2.d152d37d.chunk.js",
+    "static/js/2.d152d37d.chunk.js.map": "https://milap1296.github.io/csb-6kcfk/static/js/2.d152d37d.chunk.js.map",
+    "index.html": "https://milap1296.github.io/csb-6kcfk/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://milap1296.github.io/csb-6kcfk/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d152d37d.chunk.js.LICENSE.txt": "https://milap1296.github.io/csb-6kcfk/static/js/2.d152d37d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8983339a.js",
+    "static/js/2.d152d37d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.4ec75c88.chunk.js"
+  ]
+}
